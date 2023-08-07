@@ -1,2 +1,2 @@
 # Causal_Inference_Notes
-Ding Ding notes for causal inference workshop in Kellogg.
+Ding Ding notes for causal inference workshop in Northwestern.
